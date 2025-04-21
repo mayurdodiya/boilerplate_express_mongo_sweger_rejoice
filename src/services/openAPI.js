@@ -2,7 +2,7 @@ let openai = require('openai');
 
 openai = new openai.OpenAI({
     // apiKey: process.env.OPENAI_API_KEY
-    apiKey: "sk-proj-PaMpUFzHh4Waus0WX9TnT3BlbkFJPMmFlY6wJ2F9i8JpjSaz"
+    apiKey: ""
 });
 
 async function genrateImage(prompt) {
