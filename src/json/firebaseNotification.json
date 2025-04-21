@@ -1,13 +1,13 @@
 {
   "type": "service_account",
   "project_id": "mokx-f2faa",
-  "private_key_id": "",
-  "private_key": "",
-  "client_email": "",
-  "client_id": "",
-  "auth_uri": "",
-  "token_uri": "",
-  "auth_provider_x509_cert_url": "",
-  "client_x509_cert_url": "",
+  "private_key_id": "4c8afdfba320fba328e604b21c7a14904e4d025b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDwz/kuOMtB12R2\nT3KOhFcXVI/YLF5LVbZjfgGKfawDa+5tx4tLxbbgyQHFTLA9UCjaK/nUti/Wo5r/\nFhLJVQj0XtqDm3HuQYtjM3Hzc0InNq63bOApciOqctoxx7593lgbpfkTAIc0EQsI\nOj6dU+LVTq3W2KSU7QAHAVuUFSYL8PAeJ0Rmjt6N2nWH9aEmM2oImjsZq9kfOZ2x\no53dNGUBO4Ww8Bna0rwnSeKYaPlgquWIrtjc6oCagKpE6tjbBEHph9BpSb5g8Eei\njhDIcTotc2koI0uJh/0KoIBXg+QCiGujGE4zs9080JqSHJfh2dDbO6i0gdAfBpUt\nOJIUd4qVAgMBAAECggEADB7eUwoWNOw6ZWnVgWsv7BxN/H4sF0XV3xypORVtOWOH\n1A+ztzXK4QRM/1kw9s0RWVJIUR3LEIDheXIj6yYs7rS4Kv1IrFjNpruEbQqlQLIi\nLTwSmBNxsAGFjkptnl9x2p9KByM01ZU4dxjv1xYi25mJ6vhdEob6J8OqOvPmN9bF\nTvTx1AQwxG7rFFcArKo/FJ8Urq+TTC6QL3gQUNzQaF4KT1Ba22clopp9cAe4+kft\nGMcylZ2hiYP45kEwj8aEteQ1k5pmqr02ld+QWjH40nC1HYsP4CsrmZQzhHEa3UTx\nC0yRdw0/zV/evRnX2Qo4ymZi+V6PqnGc0dF1PnJ/+wKBgQD8SGDFedwtnCyJ5ZQ+\nZFyL/CMLrNR9zMraVlRiPXzt5aFVJ67uXyGvAs/AC1xwG1Keqi1jjIQsD1M+r4Nx\n7EODOUFpOQ8iPN9RWD+sq31HDhEXV7i4Br7DYNWEO9yLaKYwyyaHUBTVNlwck9mV\nKvkDdnhTQjnrL0cWQ2IQ9qzonwKBgQD0XFQoDtTSOWI/Nz1r+arf4OFWr/CIh87R\nccVPK3DHCxjpD73SU1kMjuhGfrsQYwmatHQdr+SifFLD3xcrUs0bdY2fzRGU36WA\nPtWegZpms4cSTEzR1qJRenMwc9H/k6a7SuvVEbm9bxVtDiXcFCmQktpc8ijW7YTW\nfKoYNuIcSwKBgQD7fGMLN+jmhpJXfEYE1CL1YIjG8Kh6JxXoBLrlm4nX1Fq4+nAF\nK0v2nATg2fJxxqrbg6TvYXm4OiavjGKpw+2g+AhejgSqCqhK/H+s7t5ZYIplDIsU\n15R+Sx9NTCcTyWQxq7Finc/GowO7cR8q9cV5UDWuOYxnB6ADb3RomJ3Q3QKBgQDw\na2bhgrYhoBPp3o+wDJTycG9EuxYNPpFdwHJA0pzDOUfpBnPc2+RhVrlxon6qQMbS\nT3lvO//XXjqQPI6vMWhb++y7rSf/MYvEAg5rRViEc14RwsBSNLq/L5rlsQ6MRtlk\nrPIbULVOjFyoT6MwRSYf+Fyf1iIYVNi9ryoraNROwQKBgD4n1zNDjXKRfZTfZbZg\noXXTwcnBof4cWpBa3X/pmLjx/MxKcRuLVD933puav4bCPk6dkqYY0CW2H0kc2re1\nt1BNUg4CS0dDvvC6xlPrMuDrF5sXuNsN2ft/UpMDdIt5yaQgLcYfO3TFVAH8Q1Cq\nguunoXh6h69AAotA5mU+/jrd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-60se2@mokx-f2faa.iam.gserviceaccount.com",
+  "client_id": "102409043439696903716",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-60se2%40mokx-f2faa.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
